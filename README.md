@@ -17,15 +17,7 @@ This project demonstrates a microservices-based system designed in Java, encompa
 
 1. Clone the repository to your local machine or download the zip file and extract it.
 
-   ```
-   git clone <repository-url>
-   ```
-
 2. Navigate to the project directory.
-
-   ```
-   cd <project-directory>
-   ```
 
 ### Configuration
 
